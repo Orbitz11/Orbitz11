@@ -51,8 +51,9 @@ Welcome to my GitHub profile!
 ## Donate!
 
 Bitcoin Wallet:
+'''
 lnbc1p5srrx3pp54q430fqyq77elzqrwnkxhdj98p48v4n4k32p6a2lu6fvt0mw5fwqsp5m0sfu6mcg6sw667xq0pp5f8c7nmel69mtjxazpsayfk2z2483jxqdp9235xzmntwvsyvmmjypvk7atjypzx7mnpw3jjzcqzynxq8zals8sq9qlzqqqqqqqqqqqqqqqqqqqqqqqqqqysgqxtdnpccrm5ae6qp622x4ez3jrgmg9epz8e4kkvm6ashpvfr895d496pahly7q98uz7mxzc0ule9lf3v7e00up3j828ahaxa7nks2trsqzk6wev
-
+'''
 
 ---
 > “Stay curious. Stay secure.”  
