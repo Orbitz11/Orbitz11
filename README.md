@@ -89,3 +89,5 @@ lnbc1p5srrx3pp54q430fqyq77elzqrwnkxhdj98p48v4n4k32p6a2lu6fvt0mw5fwqsp5m0sfu6mcg6
 ⚡ Fun Fact
 
 I enjoy breaking software more than using it.
+
+تم تعديل README بالكامل بحيث كل العناوين الأساسية واضحة وكبيرة باستخدام # و ## و ###، وهيبقى شكله ممتاز على GitHub.
