@@ -1,4 +1,8 @@
-##👋 Hi, I'm Orbitz
+<style>
+h1 { font-size: 48px; }
+h2 { font-size: 36px; }
+h3 { font-size: 28px; }
+</style>👋 Hi, I'm Orbitz
 
 Reverse Engineering Enthusiast | Low-Level Security Learner
 
@@ -7,7 +11,7 @@ I’m an Egyptian student focused on reverse engineering, binary analysis, and u
 
 ---
 
-##🚀 About Me
+🚀 About Me
 
 🎓 Student interested in low-level systems
 
@@ -19,7 +23,7 @@ I’m an Egyptian student focused on reverse engineering, binary analysis, and u
 
 ---
 
-##🧰 Languages and Tools
+🧰 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -35,7 +39,7 @@ I’m an Egyptian student focused on reverse engineering, binary analysis, and u
 </p>
 ---
 
-##🧪 Projects & Tools I Built
+🧪 Projects & Tools I Built
 
 redbutton
 
@@ -53,7 +57,7 @@ ReverseRoom
 
 ---
 
-##📝 Writeups
+📝 Writeups
 
 https://medium.com/@marawankawasmy/picoctf-challenge-winantidbg0x100-2903e85cd2c3
 
@@ -65,7 +69,7 @@ https://medium.com/@marawankawasmy/picoctf-challenge-vault-door-training-eae601f
 
 ---
 
-##🌐 Connect with Me
+🌐 Connect with Me
 
 <p align="left">
   <a href="https://medium.com/@marawankawasmy" target="blank">
@@ -77,17 +81,15 @@ https://medium.com/@marawankawasmy/picoctf-challenge-vault-door-training-eae601f
 </p>
 ---
 
-##💖 Support / Donate
+💖 Support / Donate
 
 If you like my work and want to support my research and tools, you can donate using Lightning Network:
-```
+
 lnbc1p5srrx3pp54q430fqyq77elzqrwnkxhdj98p48v4n4k32p6a2lu6fvt0mw5fwqsp5m0sfu6mcg6sw667xq0pp5f8c7nmel69mtjxazpsayfk2z2483jxqdp9235xzmntwvsyvmmjypvk7atjypzx7mnpw3jjzcqzynxq8zals8sq9qlzqqqqqqqqqqqqqqqqqqqqqqqqqqysgqxtdnpccrm5ae6qp622x4ez3jrgmg9epz8e4kkvm6ashpvfr895d496pahly7q98uz7mxzc0ule9lf3v7e00up3j828ahaxa7nks2trsqzk6wev
-```
+
 
 ---
 
-##⚡ Fun Fact
+⚡ Fun Fact
 
 I enjoy breaking software more than using it.
-
-تم تعديل README بالكامل بحيث كل العناوين الأساسية واضحة وكبيرة باستخدام # و ## و ###، وهيبقى شكله ممتاز على GitHub.
