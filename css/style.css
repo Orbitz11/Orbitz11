@@ -1,0 +1,61 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #1a1a2e;
+    padding: 10px;
+}
+
+.hero {
+    background: linear-gradient(to bottom right, #1a1a2e, #16213e);
+    animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.button {
+    background-color: #e94560;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #16213e;
+}
+
+.stats-card {
+    background-color: #0f3460;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.project-card {
+    background-color: #1a1a2e;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+.about, .projects, .contact, .footer {
+    padding: 20px;
+    background-color: #16213e;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+    .button {
+        width: 100%;
+    }
+    .stats-card, .project-card {
+        width: 100%;
+        margin: 5px 0;
+    }
+}
