@@ -1,4 +1,4 @@
-# Hi there, I'm Orbitz11! 👋
+# Hi there, I'm 0rb1tz ! 👋
 
 Welcome to my GitHub profile!  
 I’m passionate about building and sharing code, collaborating on exciting projects, and learning something new every day.
