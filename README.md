@@ -33,11 +33,11 @@ I’m passionate about building and sharing code, collaborating on exciting proj
 
 ## 📈 Stats & Activity
 
-<a href="https://github.com/Orbitz11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orbitz11&show_icons=true&theme=tokyonight" alt="Orbitz11's GitHub stats" />
+<a href="https://github.com/0rb1tz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0rb1tz&show_icons=true&theme=tokyonight" alt="0rb1tz's GitHub stats" />
 </a>
-<a href="https://github.com/Orbitz11">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orbitz11&theme=tokyonight" alt="Orbitz11's GitHub streak" />
+<a href="https://github.com/0rb1tz">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0rb1tz&theme=tokyonight" alt="0rb1tz's GitHub streak" />
 </a>
 
 ---
