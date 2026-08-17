@@ -52,9 +52,6 @@ I’m passionate about building and sharing code, collaborating on exciting proj
 
 ## ✨ Highlights
 
-- ⭐ Favorite Projects:
-  - VeryBad : Make for you a Bad Usb but with a normal Usb.
-  - ReverseRoom : Reverse engineering makes the process easier and faster.
 - 📚 Favorite Topics:
   - CTF, Reverse_engineering, Cyber_Security, Malware_analysis
 
